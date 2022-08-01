@@ -1,0 +1,595 @@
+        .background {
+            background-color: white;
+            flex-wrap: wrap;
+        }
+
+        .no {
+            width: 100px;
+            height: 50px;
+            font-family: 'Poppins', sans-serif;
+            Font-size: 18px;
+            position: relative;
+            left: 25rem;
+            bottom: 1.5rem;
+        }
+
+        .font {
+            width: 110px;
+            height: 50px;
+            position: relative;
+            top: 1.5rem;
+            right: 15rem;
+        }
+
+        .box {
+            font-family: 'Poppins', sans-serif;
+            width: 50rem;
+            position: relative;
+            left:18rem;
+            top: 3.5rem;
+            word-spacing: 3rem;
+            font-size: large;
+            flex-wrap: wrap;
+
+        }
+
+        .box ul li:hover {
+            color: black;
+        }
+
+        .box ul li {
+            color: #bfbfbf;
+            display: inline;
+        }
+
+        .links {
+            font-family: 'Poppins', sans-serif;
+            font-Weight: 500, 700;
+            width: 55rem;
+            text-align: center;
+            position: relative;
+            right:-15rem;
+            font-size: 3rem;
+        }
+
+        .box2 {
+            height: 10rem;
+            width: 10rem;
+            flex-wrap: wrap;
+        }
+
+        .box3 {
+            height: 20rem;
+            width: 19rem;
+            position: relative;
+            left: 33rem;
+        }
+
+        .box4 {
+            height: 5rem;
+            width: 50rem;
+            background-image: url(Meteor.png);
+            position: relative;
+            left: 18rem;
+            bottom: -6.5rem;
+            flex-wrap: wrap;
+        }
+        .search {
+            width: 10rem;
+            position: relative;
+            left: 20rem;
+            bottom: -3rem;
+            flex-wrap: wrap;
+        }
+
+        .search1 {
+            height: 2rem;
+            width: 35rem;
+            border-radius: .6rem;
+        }
+
+        .box5:hover {
+            background-color: #78dbdb;
+        }
+
+        .box5 {
+            height: 2.2rem;
+            width: 10rem;
+            background-color: #2acfcf;
+            position: relative;
+            left: 56rem;
+            bottom: 0.5rem;
+            border-radius: .6rem;
+            color: white;
+            text-align: center;
+            flex-wrap: wrap;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .box6 {
+            height: 53rem;
+            position: relative;
+            flex-wrap: wrap;
+            background-color: rgb(207, 231, 231);
+        }
+
+        .link {
+            width: 48rem;
+            height: 2.5rem;
+            background-color: white;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+
+            position: relative;
+            top: 2rem;
+            left: 19rem
+        }
+
+        .text {
+            height: 1rem;
+            width: 5rem;
+            position: relative;
+            top: .6rem;
+            left: 1rem;
+        }
+
+        .link2 {
+            width: 48rem;
+            height: 2.5rem;
+            background-color: white;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+
+            position: relative;
+            top: 2rem;
+            left: 19.1rem
+        }
+
+        .text2 {
+            height: 1rem;
+            width: 5rem;
+            position: relative;
+            top: .6rem;
+            left: 1rem;
+        }
+
+        .link3 {
+            width: 48rem;
+            height: 2.5rem;
+            background-color: white;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+
+            position: relative;
+            top: 2rem;
+            left: 19.1rem
+        }
+
+        .text3 {
+            height: 1rem;
+            width: 23rem;
+            position: relative;
+            top: .6rem;
+            left: 1rem;
+        }
+
+        .link4 {
+            width: 10rem;
+            height: 2rem;
+            color: #2acfcf;
+            background-color: white;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+
+            position: relative;
+            bottom: 8.7rem;
+            left: 50rem
+        }
+
+        .text4 {
+            height: 1rem;
+            width: 9rem;
+            position: relative;
+            top: .6rem;
+            left: .5rem;
+        }
+
+        .link5 {
+            width: 10rem;
+            height: 2rem;
+            color: #2acfcf;
+            background-color: white;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+
+            position: relative;
+            bottom: 8.2rem;
+            left: 50rem
+        }
+
+        .text5 {
+            height: 1rem;
+            width: 9rem;
+            position: relative;
+            top: .6rem;
+            left: .5rem;
+        }
+
+        .link6 {
+            width: 10rem;
+            height: 2rem;
+            color: #2acfcf;
+            background-color: white;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+
+            position: relative;
+            bottom: 7.7rem;
+            left: 50rem;
+        }
+
+        .text6 {
+            height: 1rem;
+            width: 9rem;
+            position: relative;
+            top: .6rem;
+            left: .5rem;
+        }
+
+        .copy:hover {
+            background-color: #78dbdb;
+        }
+
+        .copy {
+            width: 5rem;
+            height: 2rem;
+            color: white;
+            background-color: #2acfcf;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+            text-align: center;
+            position: relative;
+            bottom: 17.77rem;
+            left: 61rem;
+            border-radius: .5rem;
+        }
+
+        .text7 {
+            height: 1rem;
+            width: 5rem;
+            position: relative;
+            top: .4rem;
+        }
+
+        .copy2 {
+            width: 5rem;
+            height: 2rem;
+            color: white;
+            background-color: #35323e;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+            text-align: center;
+            position: relative;
+            bottom: 17.2rem;
+            left: 61rem;
+            border-radius: .5rem;
+        }
+
+        .text8 {
+            height: 1rem;
+            width: 5rem;
+            position: relative;
+            top: .4rem;
+        }
+
+        .copy3:hover {
+            background-color: #78dbdb;
+        }
+
+        .copy3 {
+            width: 5rem;
+            height: 2rem;
+            color: white;
+            background-color: #2acfcf;
+            font-family: 'Poppins', sans-serif;
+            font-size: small;
+            text-align: center;
+            position: relative;
+            bottom: 16.77rem;
+            left: 61rem;
+            border-radius: .5rem;
+
+        }
+
+        .text9 {
+            height: 1rem;
+            width: 5rem;
+            position: relative;
+            top: .4rem;
+        }
+
+        .middle {
+            width: 50rem;
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            font-size: larger;
+            position: relative;
+            left: 20rem;
+            bottom: 14rem;
+
+        }
+
+        .m1 {
+            width: 35rem;
+            text-align: center;
+            position: relative;
+            left: 6rem;
+            color: #bfbfbf;
+        }
+
+        .block {
+            height: 15rem;
+            width: 18rem;
+            font-family: 'Poppins', sans-serif;
+            background-color: white;
+            position: relative;
+            left: 3rem;
+        }
+
+        .b1 {
+            width: 20rem;
+            position: relative;
+            top: 5rem;
+            left: 1rem;
+        }
+
+        .m2 {
+            height: 4rem;
+            width: 14.5rem;
+            position: relative;
+            color: #bfbfbf;
+            left: 1rem;
+            top: 5rem;
+
+        }
+
+        .ico {
+            height: 6rem;
+            width: 6rem;
+            background-color: #3b3054;
+            position: relative;
+            bottom: 12rem;
+            left: 1rem;
+            border-radius: 6rem;
+
+        }
+
+        .box7 {
+            width: 10rem;
+            height: 1rem;
+            background-color: #2acfcf;
+            position: relative;
+            left: 18rem;
+            bottom: 8rem;
+        }
+
+        .block2 {
+            height: 15rem;
+            width: 18rem;
+            font-family: 'Poppins', sans-serif;
+            background-color: white;
+            position: relative;
+            left: 31rem;
+            bottom: 16rem;
+        }
+
+        .b2 {
+            width: 20rem;
+            position: relative;
+            top: 5rem;
+            left: 1rem;
+        }
+
+        .m3 {
+            height: 4rem;
+            width: 14.5rem;
+            position: relative;
+            color: #bfbfbf;
+            left: 1rem;
+            top: 5rem;
+
+        }
+
+        .box8 {
+            width: 10rem;
+            height: 1rem;
+            background-color: #2acfcf;
+            position: relative;
+            left: 18rem;
+            bottom: 8rem;
+        }
+        .block3 {
+            height: 15rem;
+            width: 18rem;
+            font-family: 'Poppins', sans-serif;
+            background-color: white;
+            position: relative;
+            left: 59rem;
+            bottom: 32rem;
+        }
+        .b3 {
+            width: 20rem;
+            position: relative;
+            top: 5rem;
+            left: 1rem;
+        }
+        .m4 {
+            height: 4rem;
+            width: 14.5rem;
+            position: relative;
+            color: #bfbfbf;
+            left: 1rem;
+            top: 5rem;
+
+        }
+        .bblock{
+            height: 20rem;
+            width: 60rem;
+            position: relative;
+            left: 5rem;
+            bottom: 6rem;
+        }
+        .aend{
+            height: 13rem;
+            background-image: url(Meteor.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+            bottom: 9rem;
+            font-family: 'Poppins', sans-serif;
+            font-size: larger;
+            text-align: center;
+            color: white;
+        }
+        .aend2{
+            width: 25rem;
+            position: relative;
+            left:34rem;
+            top: 4rem;
+        }
+        .aend3:hover{
+            background-color: #78dbdb;
+
+        }
+        .aend3{
+           height: 3rem;
+            background-color: #2acfcf;
+            width: 15rem;
+            position: relative;
+            left:38rem;
+            top: 4rem;
+            border-radius: 5rem;
+        }
+        .end{
+            background-color: #232127;
+            height: 15rem;
+            position: relative;
+            bottom: 10.15rem;
+        }
+        .short{
+            width: 10rem;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            position: relative;
+            left: 12rem;
+            top: 3rem;
+        }
+        .face:hover{
+            background-color: #2acfcf;
+        }
+        .tw:hover{
+            background-color: #2acfcf;
+
+        }
+        .pin:hover{
+            background-color: #2acfcf;
+        }
+        .insta:hover{
+            background-color: #2acfcf;
+        }
+        .face{
+            height: 2rem;
+            width: 2rem;
+            position: relative;
+            top: 3rem;
+            left: 11.5rem;
+        }
+        .tw{
+            height: 1.5rem;
+            width: 1.5rem;
+            position: relative;
+            left: 11.8rem;
+            top: 3rem;
+            bottom: .3rem;
+        }
+        .pin{
+            height: 1.5rem;
+            width: 1.5rem;
+            position: relative;
+            left: 12.2rem;
+            top: 3rem;
+            bottom:1rem;
+            border-radius: 1.5rem;
+        }
+        .insta{
+            height: 1.5rem;
+            width: 1.5rem;
+            position: relative;
+            left: 12.8rem;
+            top: 3rem;
+            bottom:1rem;
+        }
+        .last{
+            height: 2rem;
+            width: 4rem;
+            position: relative;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            left: 33rem;
+            bottom:3.5rem;
+
+        }
+        .last1:hover{
+            color: #2acfcf;
+        }
+        .last1{
+            width: 8rem;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+            position: relative;
+            color: white;
+            left: 33rem;
+            bottom:3.5rem;
+        }
+        .last2{
+            height: 2rem;
+            width: 4rem;
+            position: relative;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            left: 45rem;
+            bottom:14rem;
+        }
+        .last3:hover{
+            color: #2acfcf;
+        }
+        .last3{
+            width: 8rem;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+            position: relative;
+            color: white;
+            left: 45rem;
+            bottom:14.5rem;
+        }
+        .last4{
+            height: 2rem;
+            width: 4rem;
+            position: relative;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            left: 55rem;
+            bottom:24.5rem;
+        }
+        .last5:hover{
+            color: #2acfcf;
+        }
+        
+        .last5{
+            width: 8rem;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+            position: relative;
+            color: white;
+            left: 55rem;
+            bottom:25.5rem;
+            
+        }
+    
